@@ -1,6 +1,6 @@
 FROM	ubuntu:18.04
 
-ENV GRAFANA_VERSION 5.2.2
+ENV GRAFANA_VERSION 6.3.2
 ENV INFLUXDB_VERSION 1.6.0
 
 # Prevent some error messages
